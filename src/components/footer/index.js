@@ -210,7 +210,8 @@ function Footer(){
           </footer> 
 
           {/* mobile ver */}
-          <footer className="sm:hidden bg-gradient-to-r from-[#303030] to-[#616161] font-inter justify-center">
+          <footer className="s
+          m:hidden bg-gradient-to-r from-[#303030] to-[#616161] font-inter justify-center">
               <div className="max-w-screen-xl py-[100px] px-10 mx-auto lg:pt-20 justify-center">
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3 font-inter">
                   {/* row1  */}
